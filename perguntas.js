@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que é HTML?',
-    'O HTML (Linguagem de Marcação de HiperTexto)' 
+    'Qual é a flor mais antiga do mundo?',
+    'A primeira flor que conhecemos apareceu há cerca de 130 milhões de anos. O fóssil da planta chamado Montsechia vidalii ' 
 )
 
 criaCartao(
     'Programação',
-    'O que é CSS?',
-    'O CSS é uma linguagem de estilização.'
+    'qual a flor que só floresce a cada década?',
+    'A primeira flor que conhecemos apareceu há cerca de 130 milhões de anos. O fóssil da planta chamado Montsechia vidalii .'
 )
 
 criaCartao(
